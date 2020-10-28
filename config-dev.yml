@@ -1,1 +1,2 @@
-helloword -dev
+config:
+  info: version=1
